@@ -3,16 +3,7 @@
 # 프론트엔드 개발자 허재원입니다
 <br />
 
-## About Me
-
-**사용자가 편하게 느끼는 순간을 코드로 만드는 프론트엔드 개발자입니다.**  
-보이는 화면뿐만 아니라 성능과 코드의 유지보수성까지 함께 고민합니다.
-
-<br />
-
 ## Tech Stack
-
-### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Frontend Tech Stack" />
@@ -40,7 +31,5 @@
 </a>
 
 <br />
-
-### 꾸준히 배우고, 배운 것을 코드로 만들어 나가겠습니다. 🌱
 
 </div>
