@@ -2,8 +2,6 @@
 
 # 프론트엔드 개발자 허재원입니다.
 
-
-<br />
 <a href="https://github.com/ja2x0n">
 <br />
 
