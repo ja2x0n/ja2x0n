@@ -6,7 +6,7 @@
 <br />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,spring,git,github,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" alt="Tech Stack" />
 </p>
 
 <br />
