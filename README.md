@@ -13,8 +13,6 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 
 <h2 align="center">👋 About Me</h2>
 
----
-
 <div align="center">
 
 🎓 **Gyeongbuk Software Meister High School**
@@ -31,8 +29,6 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 
 <h2 align="center">🛠️ Frontend</h2>
 
----
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Stack" />
@@ -43,8 +39,6 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 
 <h2 align="center">🧰 Tools</h2>
 
----
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
@@ -54,8 +48,6 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 <br>
 
 <h2 align="center">📊 GitHub Activity</h2>
-
----
 
 <div align="center">
 
@@ -83,8 +75,6 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 <br>
 
 <h2 align="center">📫 Contact</h2>
-
----
 
 <div align="center">
 
