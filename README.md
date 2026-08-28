@@ -27,50 +27,14 @@ React · TypeScript 기반의 웹 서비스를 만들고 있습니다.
 
 <br>
 
-<h2 align="center">🛠️ Frontend</h2>
+<h2 align="center">🛠️ Skill</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma,vite" alt="Frontend Stack" />
 
 </div>
 
-<br>
-
-<h2 align="center">🧰 Tools</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" alt="Tools" />
-
-</div>
-
-<br>
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<div align="center">
-
-<img
-  width="86%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ja2x0n&theme=github_dark"
-  alt="GitHub Activity"
-/>
-
-<p>
-  <img
-    width="42%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ja2x0n&theme=github_dark"
-    alt="GitHub Stats"
-  />
-  <img
-    width="42%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ja2x0n&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
-</div>
 
 <br>
 
