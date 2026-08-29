@@ -2,10 +2,10 @@
 
 # 허재원 [Heo JaeWon]
 
-**Frontend Web Developer**
+> **Frontend Web Developer**
 
-React · TypeScript 기반의 웹 서비스를 만들고 있습니다.  
-사용자 경험과 유지보수하기 좋은 프론트엔드 구조를 고민합니다.
+**React · TypeScript 기반의 웹 서비스를 만들고 있습니다.  
+사용자 경험과 유지보수하기 좋은 프론트엔드 구조를 고민합니다.**
 
 </div>
 
