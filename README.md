@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma,vite" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,git,github,vscode,vite" alt="Frontend Stack" />
 
 </div>
 
